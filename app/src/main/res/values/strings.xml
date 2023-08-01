@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_output1"></string>
+    <string name="tv_output2"></string>
+    <string name="tv_output3"></string>
+    <string name="tv_output4"></string>
+    <string name="tv_output5"></string>
+    <string name="tv_tosi">歳</string>
+    <string name="tv_sin">cm</string>
+    <string name="tai">kg</string>
+    <string name="bt_calculation">計算</string>
+    <string name="bt_clear">クリア</string>
+</resources>
